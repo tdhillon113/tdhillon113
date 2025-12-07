@@ -40,7 +40,7 @@ I build reliable, user-centered web applications and practical machine learning 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=tdhillon113&theme=dark_aura)](https://git.io/streak-stats)
 ### Want to see my work?
 Check the pinned repositories on my profile for project code, live demos, and notebooks.  
 If you’d like a tailored walkthrough of any project or my resume, send a message!
