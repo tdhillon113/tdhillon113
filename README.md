@@ -11,7 +11,7 @@ My name is Trinity! I have a strong interest in working all around the stack, in
   - Cybersecurity
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tdhillon113&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tdhillon113&theme=calm_rose)](https://git.io/streak-stats)
 
 ## Some Languages Ive Used:
 
