@@ -1,6 +1,6 @@
 
 [![](https://img.shields.io/badge/-@tdhillon113-%23181717?style=flat-square&logo=github)](https://github.com/tdhillon113)
-[![](https://img.shields.io/badge/-Trinity%20Dhillon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trinity-dhillon/)](https://www.linkedin.com/in/trinity-dhillon/)
+[![](https://img.shields.io/badge/-Trinity%20Dhillon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trinity-dhillon/)](https://www.linkedin.com/in/trinity-dhillon-084702219/)
 
 ## Hello Everyone !
 
