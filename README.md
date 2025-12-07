@@ -11,6 +11,7 @@ My name is Trinity! I have a strong interest in working all around the stack, in
   - Cybersecurity
 *
 
+
 I build reliable, user-centered web applications and practical machine learning solutions. Currently studying Computer Science & Cybersecurity at Hofstra University, I combine strong fundamentals (data structures, systems, algorithms, discrete math) with hands-on experience in full-stack development, cloud-hosted realtime systems, and ML model deployment. I enjoy turning data into actionable insights and shipping polished, performant user experiences.
 
 
