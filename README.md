@@ -11,8 +11,13 @@ My name is Trinity! I have a strong interest in working all around the stack, in
   - Cybersecurity
 
 
+## Stats
+[![daniaalnadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniaalnadir&show_icons=true&theme=dracula&count_private=true)]
 
-[![Trinity's GitHub stats](https://github-readme-stats.vercel.app/api?username=tdhillon113&show_icons=true&theme=radical)](https://github.com/tdhillon113)
+
+## Languages 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniaalnadir&layout=compact&hide=css,html,handlebars)]
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tdhillon113&theme=dracula)](https://git.io/streak-stats)
