@@ -11,12 +11,12 @@ My name is Trinity! I have a strong interest in working all around the stack, in
   - Cybersecurity
 *
 
-> I build reliable, user-centered web applications and practical machine learning solutions. Currently studying Computer Science & Cybersecurity at Hofstra University, I combine strong fundamentals (data structures, systems, algorithms, discrete math) with hands-on experience in full-stack development, cloud-hosted realtime systems, and ML model deployment. I enjoy turning data into actionable insights and shipping polished, performant user experiences.
+I build reliable, user-centered web applications and practical machine learning solutions. Currently studying Computer Science & Cybersecurity at Hofstra University, I combine strong fundamentals (data structures, systems, algorithms, discrete math) with hands-on experience in full-stack development, cloud-hosted realtime systems, and ML model deployment. I enjoy turning data into actionable insights and shipping polished, performant user experiences.
 
-```
-- Currently seeking internships & collaborations in software engineering, AI/ML, or cybersecurity.
-- Comfortable leading small teams — I coordinated a 6-person intern group to deliver production features and managed agile sprints, code reviews, and Git workflows.
-```
+
+> - Currently seeking internships & collaborations in software engineering, AI/ML, or cybersecurity.
+> - Comfortable leading small teams — I coordinated a 6-person intern group to deliver production features and managed agile sprints, code reviews, and Git workflows.
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tdhillon113&theme=dark_aura)](https://git.io/streak-stats)
