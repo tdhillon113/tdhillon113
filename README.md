@@ -1,3 +1,7 @@
+
+[![](https://img.shields.io/badge/-@tdhillon113-%23181717?style=flat-square&logo=github)](https://github.com/tdhillon113)
+[![](https://img.shields.io/badge/-Trinity%20Dhillon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tdhillon113/)](https://www.linkedin.com/in/tdhillon113/)
+
 ## Hello Everyone !
 
 My name is Trinity! I have a strong interest in working all around the stack, including:
