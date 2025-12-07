@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Trinity's GitHub stats](https://github-readme-stats.vercel.app/api?username=tdhillon113)](https://github.com/tdhillon113/github-readme-stats)
+[![Trinity's GitHub stats](https://github-readme-stats.vercel.app/api?username=tdhillon113&show_icons=true&theme=radical)](https://github.com/tdhillon113)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tdhillon113&theme=dracula)](https://git.io/streak-stats)
