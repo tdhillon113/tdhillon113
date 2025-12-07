@@ -1,12 +1,19 @@
 ## Hello Everyone !
 
-`monospaced inline text`
+My name is Trinity! I have a strong interest in working all around the stack, including:
+
+  - Fullstack
+  - AI & Machine Learning
+  - Cybersecurity
+
+
 
 [![Trinity's GitHub stats](https://github-readme-stats.vercel.app/api?username=tdhillon113&show_icons=true&theme=radical)](https://github.com/tdhillon113)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tdhillon113&theme=dracula)](https://git.io/streak-stats)
 
+```Some languages I have used```:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> 
