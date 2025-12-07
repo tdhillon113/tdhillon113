@@ -1,6 +1,6 @@
 ## Hello Everyone !
 
-'monospaced inline text'
+`monospaced inline text`
 
 [![Trinity's GitHub stats](https://github-readme-stats.vercel.app/api?username=tdhillon113&show_icons=true&theme=radical)](https://github.com/tdhillon113)
 
