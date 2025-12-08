@@ -18,6 +18,11 @@ I build reliable, user-centered web applications and practical machine learning 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tdhillon113&theme=dark_aura)](https://git.io/streak-stats)
 
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tdhillon113/tdhillon113/output/github-snake-dark.svg" />
+
 ## Quick Tech Snapshot
 **Languages:** C / C++, C#, F#, Java, JavaScript, TypeScript, Python  
 **Web & Frontend:** React, React Router, Material UI, React Native, Tamagui, Expo  
