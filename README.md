@@ -19,12 +19,13 @@ I build reliable, user-centered web applications and practical machine learning 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tdhillon113&theme=dark_aura)](https://git.io/streak-stats)
 
 
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tdhillon113/tdhillon113/output/github-snake-dark.svg" />
-
-
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tdhillon113/tdhillon113/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tdhillon113/tdhillon113/output/github-snake.svg" />
+  </picture>
+</div>
 
 
 
