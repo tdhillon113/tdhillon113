@@ -16,11 +16,7 @@ I build reliable, user-centered web applications and practical machine learning 
 > - Currently seeking internships & collaborations in software engineering, AI/ML, or cybersecurity.
 > - Comfortable leading small teams — I coordinated a 6-person intern group to deliver production features and managed agile sprints, code reviews, and Git workflows.
 
-
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=tdhillon113&theme=dark_aura)](https://git.io/streak-stats)
-
-![Metrics](https://metrics.lecoq.io/tdhillon113?template=terminal&isocalendar=1&rss=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&rss=false&rss.limit=4&config.timezone=America%2FNew_York)
 
 ## Quick Tech Snapshot
 **Languages:** C / C++, C#, F#, Java, JavaScript, TypeScript, Python  
