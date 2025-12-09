@@ -17,15 +17,6 @@ I have built reliable, user-centered web applications and practical machine lear
 > - I am hoping to expand my horizons to look for more areas of interests and learn more about the niches of the tech industry 
 
 
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=tdhillon113&theme=calm_rose)](https://git.io/streak-stats)
-
-
-
-
-
 ## Quick Tech Background 
 **Languages:** C / C++, C#, F#, Java, JavaScript, TypeScript, Python  
 **Web & Frontend:** React, React Router, Material UI, React Native, Tamagui, Expo  
