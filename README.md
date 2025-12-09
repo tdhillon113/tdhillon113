@@ -1,8 +1,7 @@
 
 [![](https://img.shields.io/badge/-@tdhillon113-%23181717?style=flat-square&logo=github)](https://github.com/tdhillon113)
 [![](https://img.shields.io/badge/-Linkedin%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trinity-dhillon/)](https://www.linkedin.com/in/trinity-dhillon-084702219/)
-[![Contact Me](https://img.shields.io/badge/-@tdhillon113-%23181717?style=flat-square&logo=github)(mailto:trinity.dhill@gmail.com)
-
+[![Contact Me](https://img.shields.io/badge/-trinity.dhill@gmail.com-%23181717?style=flat-square&logo=github)
 
 ## 🌠 Hello Everyone 🌠 ! 
 
