@@ -2,18 +2,18 @@
 [![](https://img.shields.io/badge/-@tdhillon113-%23181717?style=flat-square&logo=github)](https://github.com/tdhillon113)
 [![](https://img.shields.io/badge/-Trinity%20Dhillon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trinity-dhillon/)](https://www.linkedin.com/in/trinity-dhillon-084702219/)
 
-## Hello Everyone ! 
+## 🌠 Hello Everyone 🌠 ! 
 
 My name is Trinity! I have a strong interest in working all around the stack, including:
 
-  - Fullstack
+  - Fullstack 
   - AI & Machine Learning
   - Cybersecurity
 
 I have build reliable, user-centered web applications and practical machine learning solutions. Currently, I am studying Computer Science & Cybersecurity at Hofstra University. I have made my attempt, based of my education and hands on experience, to apply strong fundamentals (data structures, systems, algorithms, discrete math) with hands-on experience in full-stack development, cloud-hosted realtime systems, and ML model deployment. I hope to continue to grow, develop, and adapt to the new ideas that my field has to offer!
 
-> - Currently seeking internships & collaborations in software engineering, AI/ML, or cybersecurity.
-> - I am hoping to expand my horizons to look for more areas of interests and learn more about the niches of the tech industry
+> - Currently seeking internships & collaborations in software engineering, AI/ML, or Cybersecurity
+> - I am hoping to expand my horizons to look for more areas of interests and learn more about the niches of the tech industry 
 
 
 
@@ -22,7 +22,7 @@ I have build reliable, user-centered web applications and practical machine lear
 
 
 
-## Quick Tech Background
+## Quick Tech Background 
 **Languages:** C / C++, C#, F#, Java, JavaScript, TypeScript, Python  
 **Web & Frontend:** React, React Router, Material UI, React Native, Tamagui, Expo  
 **ML / Data:** NumPy, Pandas, scikit-learn, TensorFlow, Matplotlib, Seaborn  
