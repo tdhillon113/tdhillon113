@@ -17,7 +17,7 @@ I have build reliable, user-centered web applications and practical machine lear
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tdhillon113&theme=dark_aura)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tdhillon113&theme=calm_rose)](https://git.io/streak-stats)
 
 
 
