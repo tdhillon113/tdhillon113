@@ -36,6 +36,14 @@ I have built reliable, user-centered web applications and practical machine lear
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tdhillon113/tdhillon113/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tdhillon113/tdhillon113/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tdhillon113/tdhillon113/output/github-snake.svg" />
+  </picture>
+</div>
+
 # My works:
 Check the pinned repositories on my profile for project code, live demos, and notebooks.  
 If you’d like a tailored walkthrough of any project or my resume, send a message!
