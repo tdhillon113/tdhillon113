@@ -23,7 +23,6 @@ I have built reliable, user-centered web applications and practical machine lear
 **ML / Data:** NumPy, Pandas, scikit-learn, TensorFlow, Matplotlib, Seaborn  
 **Back End & DB:** Django, PostgreSQL, SQLite, REST APIs  
 **Dev Tools & Platforms:** Git, GitHub, GitLab, Jira, ESLint, VS Code, Vim, Linux, Docker/VirtualBox, Firebase, Vertex AI, Figma, Postman, Yarn
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tdhillon113/tdhillon113/output/github-snake-dark.svg" />
